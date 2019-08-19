@@ -1,0 +1,2 @@
+# ParalleSelenium
+navegadores paralelos
